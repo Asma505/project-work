@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    font-family: 'Work Sans';
+}
+
+.header-div {
+    background-image: url(../images/banner/banner2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 216px 220px 167px 700px;
+    margin-bottom: 35px;
+}
+
+.header-title-text {
+    font-weight: 1000;
+    font-size: 32px;
+    color: #151414;
+    margin-bottom: 24px;
+}
+
+.header-description-text {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-bottom: 32px;
+}
+
+.btn-primary {
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    background: #F15B22;
+    border: 1px;
+    border-radius: 5px;
+    padding: 14px 18px;
+}
+
+.section-one-container {
+    display: flex;
+}
+
+.section-one-text {
+    padding: 169px 190px 214px 88px;
+}
+
+.section-one-text h2 {
+    font-weight: 700;
+    font-size: 28px;
+    color: #151414;
+    margin-bottom: 24px;
+}
+
+.section-one-text p {
+    font-weight: 400;
+    font-size: 14px;
+    color: #444343;
+    margin-bottom: 16px;
+}
+
+.section-one-text ul {
+    font-weight: 400;
+    font-size: 14px;
+    color: #444343;
+    list-style-image: url('../images/icons/checkmark.png');
+}
+.section-two{
+    margin-bottom: 130px;
+}
+.section-two-title {
+    font-weight: 1000;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.section-two-plans {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+.section-two-img1 {
+    padding-left: 38px;
+}
+
+.section-two-img2 {
+    padding-left: 10px;
+}
+
+.section-two-img3 {
+    padding-left: 16px;
+}
+
+.section-two-img4 {
+    padding-left: 16px;
+}
+
+.section-two-p1 {
+    padding-left: 25px;
+}
+
+.section-two-p3 {
+    padding-left: 12px;
+}
+
+.section-two-h2 {
+    padding-left: 10px;
+}
+
+.section-two-h4 {
+    padding-left: 12px;
+}
